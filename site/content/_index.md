@@ -1,6 +1,7 @@
 ---
 title: Great coffee with a magic pony
 subtitle: Support sustainable farming while enjoying a cup
+custom: magic ponies
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
